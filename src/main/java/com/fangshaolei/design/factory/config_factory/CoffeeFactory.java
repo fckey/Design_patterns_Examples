@@ -22,7 +22,7 @@ public class CoffeeFactory {
         // 2.1 创建properties对象
         Properties properties = new Properties();
         // 2.2 调用properties对象中的load方法进行配置文件的加载
-        InputStream is = com.fangshaolei.design.factory.factory_method.CoffeeFactory.class.getClassLoader().getResourceAsStream("bean.properties");
+        InputStream is = com.fangshaolei.design.factory.factory_method.CoffeeFactory.class.getClassLoader().getResourceAsStream("main/resources/bean.properties");
         try {
             properties.load(is);
             // 从p集合中获取全类名，并创建对象

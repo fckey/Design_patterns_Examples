@@ -17,5 +17,18 @@
 <a href="https://blog.csdn.net/qq_41860497/category_11551015.html">设计模式博客介绍</a>
 中。
 
+# 项目目录 
+
+对所有的设计模式进行了一个归类处理：
+- 六大设计原则 
+- 创建者模式
+  - 单例设计模式（Singleton Pattern）
+  - 工厂设计模式（Factory Pattern）
+  - 原型设计模式（Prototype Pattern）
+  - 建造者模式（Builder pattern）
+- 结构型模式
+  - 代理模式（）
+  - 适配器模式
+
 
 -----

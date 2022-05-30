@@ -1,8 +1,5 @@
 package com.fangshaolei.design.singleton.demo3;
 
-import java.util.Random;
-import java.util.concurrent.TimeUnit;
-
 /**
  * @author fangshaolei
  * @version 1.0.0

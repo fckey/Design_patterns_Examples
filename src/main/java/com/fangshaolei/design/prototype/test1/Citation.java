@@ -1,6 +1,5 @@
 package com.fangshaolei.design.prototype.test1;
 
-import javax.sql.rowset.serial.SerialArray;
 import java.io.Serializable;
 
 /**

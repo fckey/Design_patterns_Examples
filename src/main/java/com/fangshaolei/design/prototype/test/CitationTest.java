@@ -1,7 +1,5 @@
 package com.fangshaolei.design.prototype.test;
 
-import java.util.Properties;
-
 /**
  * @author fangshaolei
  * @version 1.0.0

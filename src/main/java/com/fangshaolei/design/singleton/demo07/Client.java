@@ -1,7 +1,5 @@
 package com.fangshaolei.design.singleton.demo07;
 
-import org.w3c.dom.ls.LSInput;
-
 import java.io.*;
 
 /**

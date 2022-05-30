@@ -1,7 +1,5 @@
 package com.fangshaolei.design.singleton.demo05;
 
-import java.util.SimpleTimeZone;
-
 /**
  * @author fangshaolei
  * @version 1.0.0

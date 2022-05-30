@@ -1,7 +1,5 @@
 package com.fangshaolei.design.factory.factory_method;
 
-import com.fangshaolei.design.factory.simple_factory.SimpleCoffeeFactory;
-
 /**
  * @author fangshaolei
  * @version 1.0.0
