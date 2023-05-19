@@ -5,152 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79bf8954-ab72-4aa2-9c05-02faa5065b59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/Black.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/Gray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/White.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/unbridge/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/bridge/unbridge/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/static_factory/AmericanCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/static_factory/LatteCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/class_adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/class_adapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/class_adapter/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/class_adapter/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/class_adapter/SDAdapterTF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/class_adapter/SDAdapterTF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/class_adapter/SDCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/class_adapter/SDCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/class_adapter/SDCardImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/class_adapter/SDCardImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/class_adapter/TFCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/class_adapter/TFCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/class_adapter/TFCardImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/class_adapter/TFCardImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/object_adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/object_adapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/object_adapter/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/object_adapter/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/object_adapter/SDAdapterTF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/object_adapter/SDAdapterTF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/object_adapter/SDCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/object_adapter/SDCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/object_adapter/SDCardImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/object_adapter/SDCardImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/object_adapter/TFCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/object_adapter/TFCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/object_adapter/TFCardImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/object_adapter/TFCardImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/simple_adapter/DefaultAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/simple_adapter/DefaultAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/simple_adapter/DefaultAdapterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/simple_adapter/DefaultAdapterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/simple_adapter/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/simple_adapter/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/adapter/simple_adapter/SampleOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/adapter/simple_adapter/SampleOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/builder/demo01/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/builder/demo01/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/builder/demo01/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/builder/demo01/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/builder/demo01/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/builder/demo01/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/builder/demo01/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/builder/demo01/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/builder/demo01/MobileBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/builder/demo01/MobileBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/builder/demo01/OfoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/builder/demo01/OfoBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/builder/demo02/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/builder/demo02/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/builder/demo02/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/builder/demo02/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/AmericanCoffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/AmericanDessertFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/AmericanDessertFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/static_factory/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/Dessert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/Dessert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/DessertFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/DessertFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/ItalyDessertFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/ItalyDessertFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/LatteCoffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/MatchaMousse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/MatchaMousse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/abstract_factory/Trimisu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/Trimisu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/before/AmericanCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/before/AmericanCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/before/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/before/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/before/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/before/CoffeeStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/before/CoffeeStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/before/LatteCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/before/LatteCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/config_factory/AmericanCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/config_factory/AmericanCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/config_factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/config_factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/config_factory/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/config_factory/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/config_factory/CoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/config_factory/CoffeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/config_factory/LatteCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/LatteCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/factory_method/AmericanCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/simple_factory/AmericanCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/factory_method/AmericanCoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/factory_method/AmericanCoffeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/factory_method/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/factory_method/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/factory_method/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/factory_method/CoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/factory_method/CoffeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/factory_method/CoffeeStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/factory_method/CoffeeStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/factory_method/LatteCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/config_factory/LatteCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/factory_method/LatteCoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/factory_method/LatteCoffeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/simple_factory/AmericanCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/factory_method/AmericanCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/simple_factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/static_factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/simple_factory/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/simple_factory/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/simple_factory/CoffeeStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/simple_factory/CoffeeStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/simple_factory/LatteCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/simple_factory/LatteCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/simple_factory/SimpleCoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/simple_factory/SimpleCoffeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/static_factory/AmericanCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/abstract_factory/AmericanCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/static_factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/simple_factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/static_factory/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/factory_method/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/static_factory/CoffeeStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/static_factory/CoffeeStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/static_factory/LatteCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/factory_method/LatteCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/factory/static_factory/SimpleCoffeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/factory/static_factory/SimpleCoffeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/prototype/demo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/prototype/demo/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/prototype/demo/Realizetype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/prototype/demo/Realizetype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/prototype/test/Citation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/prototype/test/Citation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/prototype/test/CitationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/prototype/test/CitationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/prototype/test/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/prototype/test/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/prototype/test1/Citation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/prototype/test1/Citation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/prototype/test1/CitationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/prototype/test1/CitationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/prototype/test1/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/prototype/test1/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/cglib_proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/cglib_proxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/cglib_proxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/cglib_proxy/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/cglib_proxy/TrainStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/cglib_proxy/TrainStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/jdk_proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/jdk_proxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/jdk_proxy/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/jdk_proxy/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/jdk_proxy/SellTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/jdk_proxy/SellTickets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/jdk_proxy/TrainStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/jdk_proxy/TrainStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/static_proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/static_proxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/static_proxy/ProxyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/static_proxy/ProxyPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/static_proxy/SellTickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/static_proxy/SellTickets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/proxy/static_proxy/TrainStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/proxy/static_proxy/TrainStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo01/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo01/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo01/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo01/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo02/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo02/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo02/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo02/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo04/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo04/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo04/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo04/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo05/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo05/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo05/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo05/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo06/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo06/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo06/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo06/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo07/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo07/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo07/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo07/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo08/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo08/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo08/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo08/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo3/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/design/singleton/demo3/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/singleton/demo3/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/OCP/AbstractSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/OCP/AbstractSkin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/OCP/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/OCP/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/OCP/DefaultSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/OCP/DefaultSkin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/OCP/KawayiSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/OCP/KawayiSkin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/OCP/SougouInputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/OCP/SougouInputer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo02/after/Quadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo02/after/Quadrilateral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo02/after/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo02/after/Rectangle01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo02/after/RectangleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo02/after/RectangleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo02/after/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo02/after/Square01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo02/before/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo02/before/Rectangle02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo02/before/RectangleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo02/before/RectangleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo02/before/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo02/before/Square02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/after/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/after/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/after/ComputerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/after/ComputerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/after/HardDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/after/HardDisk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/after/IntelCPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/after/IntelCPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/after/LenovoComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/after/LenovoComputer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/after/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/after/Memory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/after/SamsungMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/after/SamsungMemory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/after/SeagateDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/after/SeagateDisk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/before/ComputerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/before/ComputerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/before/IntelCPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/before/IntelCPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/before/LenovoComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/before/LenovoComputer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/before/SamsungMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/before/SamsungMemory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo03/before/SeagateDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo03/before/SeagateDisk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo04/Callable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo04/Callable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo04/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo04/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo04/ListenMusicable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo04/ListenMusicable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo04/NokiaPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo04/NokiaPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo04/Onlineable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo04/Onlineable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo04/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo04/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fangshaolei/priciples/demo04/RedMiPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fckey/priciples/demo04/RedMiPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/decorators/CompressionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/decorators/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/decorators/DataSourceDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/decorators/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/decorators/EncryptionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fckey/design/decorators/FileDataSource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,35 +42,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/fangshaolei/code/workspace/Design_patterns_Examples",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.22643678",
-    "settings.editor.selected.configurable": "Groovy compiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fangshaolei/code/workspace/Design_patterns_Examples&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.22643678&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Groovy compiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.fangshaolei.priciples.demo02.after" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fckey.design.bridge.Client" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.fckey.design.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fckey.design.decorators.Demo" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fckey.design.decorators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Main" />
       </list>
@@ -259,7 +133,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683899063957</updated>
-      <workItem from="1683899065720" duration="4536000" />
+      <workItem from="1683899065720" duration="5658000" />
+      <workItem from="1684463634838" duration="1726000" />
     </task>
     <servers />
   </component>
